@@ -1,0 +1,6 @@
+p1
+p2
+hand
+play 1
+board
+quit

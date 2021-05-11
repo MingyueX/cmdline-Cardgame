@@ -1,0 +1,22 @@
+Air Elemental
+Earth Elemental
+Dark Ritual
+Fire Elemental
+Giant Strength
+Bomb
+Banish
+Blizzard
+Potion Seller
+Master Summoner
+Unsummon
+Recharge
+Disenchant
+Raise Dead
+Enrage
+Delay
+Magic Fatigue
+Silence
+Aura of Power
+Standstill
+Novice Pyromancer
+Apprentice Summoner
